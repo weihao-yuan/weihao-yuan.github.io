@@ -1,0 +1,52 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+
+
+<style>
+  .archive__item-title {
+    font-size: 1em !important;
+  }
+  p {
+    margin-top: 10px;    /* 上边距 */
+    margin-bottom: 10px; /* 下边距 */
+  }
+</style>
+
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">Full publication list on <a href="{{site.author.googlescholar}}">Google Scholar </a></div>
+{% endif %}
+* &hairsp; Equal contribution <br>
+† Corresponding author <br>
+‡ Project Lead / Mentor
+
+{% include base_path %}
+
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
+
+

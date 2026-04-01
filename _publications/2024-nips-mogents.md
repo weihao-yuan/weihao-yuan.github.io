@@ -1,0 +1,15 @@
+---
+title: "MoGenTS: Motion Generation based on Spatial-Temporal Joint Modeling"
+collection: publications
+category: conferences
+permalink: /publication/2024-nips-mogents
+excerpt: '' 
+date: 2024-12-01
+venue: 'NeurIPS'
+authors: '<b>Weihao Yuan</b>, Yisheng He, Weichao Shen, Yuan Dong, Xiaodong Gu, Zilong Dong, Liefeng Bo, Qixing Huang'
+projecturl: 'https://aigc3d.github.io/mogents'
+paperurl: 'https://arxiv.org/abs/2409.17686'
+codeurl: 'https://github.com/weihaosky/mogents'
+citation: '<b>Weihao Yuan</b>, Yisheng He, Weichao Shen, Yuan Dong, Xiaodong Gu, Zilong Dong, Liefeng Bo, Qixing Huang. “MoGenTS: Motion Generation based on Spatial-Temporal Joint Modeling”, Conference on Neural Information Processing Systems (NeurIPS). 2024.'
+---
+Motion generation from discrete quantization offers many advantages over continuous regression, but at the cost of inevitable approximation errors. Previous methods usually quantize the entire body pose into one code, which not only faces the difficulty in encoding all joints within one vector but also loses the spatial relationship between different joints. Differently, in this work we quantize each individual joint into one vector, which i) simplifies the quantization process as the complexity associated with a single joint is markedly lower than that of the entire pose; ii) maintains a spatial-temporal structure that preserves both the spatial relationships among joints and the temporal movement patterns; iii) yields a 2D token map, which enables the application of various 2D operations widely used in 2D images. Grounded in the 2D motion quantization, we build a spatial-temporal modeling framework, where 2D joint VQVAE, temporal-spatial 2D masking technique, and spatial-temporal 2D attention are proposed to take advantage of spatial-temporal signals among the 2D tokens. Extensive experiments demonstrate that our method significantly outperforms previous methods across different datasets, with a 26.6% decrease of FID on HumanML3D and a 29.9% decrease on KIT-ML.

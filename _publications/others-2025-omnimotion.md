@@ -1,7 +1,7 @@
 ---
 title: "OmniMotion: Multimodal Motion Generation with Continuous Masked Autoregression"
 collection: publications
-category: others
+category: preprint
 permalink: /publication/others-2025-omnimotion
 excerpt: '' 
 date: 2025-10-01

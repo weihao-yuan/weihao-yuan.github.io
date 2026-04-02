@@ -1,7 +1,7 @@
 ---
 title: "Forge4D: Feed-Forward 4D Human Reconstruction and Interpolation from Uncalibrated Sparse-view Videos"
 collection: publications
-category: others
+category: preprint
 permalink: /publication/others-2025-forge4d
 excerpt: '' 
 date: 2025-09-01

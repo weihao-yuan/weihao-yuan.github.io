@@ -1,7 +1,7 @@
 ---
 title: "MulSMo: Multimodal Stylized Motion Generation by Bidirectional Control Flow"
 collection: publications
-category: others
+category: preprint
 permalink: /publication/others-2024-mulsmo
 excerpt: '' 
 date: 2024-12-01

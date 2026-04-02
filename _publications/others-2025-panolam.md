@@ -1,7 +1,7 @@
 ---
 title: "PanoLAM: Large Avatar Model for Gaussian Full-Head Synthesis from One-shot Unposed Image"
 collection: publications
-category: others
+category: preprint
 permalink: /publication/others-2025-panolam
 excerpt: '' 
 date: 2025-09-01

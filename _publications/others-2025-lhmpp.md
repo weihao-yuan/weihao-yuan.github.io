@@ -1,7 +1,7 @@
 ---
 title: "LHM++: An Efficient Large Human Reconstruction Model for Pose-free Images to 3D"
 collection: publications
-category: others
+category: preprint
 permalink: /publication/others-2025-lhmpp
 excerpt: '' 
 date: 2025-06-01

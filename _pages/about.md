@@ -10,7 +10,7 @@ redirect_from:
 I received the Ph.D. degree from [Robotics Institute](http://ri.ust.hk/), [Hong Kong University of Science and Technology](https://www.ust.hk/), where I worked on Robot Reinforcement Learning and 3D Vision under the supervision of [Prof. Michael Yu Wang](https://seng.ust.hk/about/people/faculty/michael-yu-wang) and [Prof. Qifeng Chen](https://cqf.io/).
 I was a visiting scholar at the [Robotics, Perception and Learning Lab](https://www.kth.se/rpl), [KTH](https://www.kth.se/), working with [Prof. Danica Kragic](https://www.csc.kth.se/~danik). Before that, I obtained the Bachelor degree from [Zhejiang University](https://www.zju.edu.cn/), majoring in Automation and minoring in Finance.
 
-My research interests include Embodied AI (VLA / WAM / RL / Humanoid Motion) and 3D Vision (Reconstruction / Generation / World Model). Glad to be exploring the real Physical AI in this era.
+My research interests include Embodied AI (VLA / WAM / RL / Tactile Intelligence / Humanoid Motion) and 3D Vision (Reconstruction / Generation / World Model). Glad to be exploring the real Physical AI in this era.
 
 <span class="text-why-red">***I am actively looking for prospective Ph.D/Master students and RAs/Interns at Nanjing University. Please drop me an email if you are interested.***</span>
 

@@ -7,17 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-I received the Ph.D. degree from [Robotics Institute](http://ri.ust.hk/), [Hong Kong University of Science and Technology](https://www.ust.hk/), where I worked on Robot Reinforcement Learning and 3D Vision under the supervision of [Prof. Michael Yu Wang](https://seng.ust.hk/about/people/faculty/michael-yu-wang) and [Prof. Qifeng Chen](https://cqf.io/).
-I was a visiting scholar at the [Robotics, Perception and Learning Lab](https://www.kth.se/rpl), [KTH](https://www.kth.se/), working with [Prof. Danica Kragic](https://www.csc.kth.se/~danik). Before that, I obtained the Bachelor degree from [Zhejiang University](https://www.zju.edu.cn/), majoring in Automation and minoring in Finance.
+I am a tenure-track associate professor at School of Intelligence Science and Technology, Nanjing University.
+I was a multimodal research expert at Tongyi Lab, Alibaba.
 
-My research interests include Embodied AI (VLA / WAM / RL / Tactile Intelligence / Humanoid Motion) and 3D Vision (Reconstruction / Generation / World Model). Glad to be exploring the real Physical AI in this era.
+I received the Ph.D. degree from Robotics Institute, Hong Kong University of Science and Technology, where I worked on Robot Reinforcement Learning and 3D Vision under the supervision of [Prof. Michael Yu Wang](https://seng.ust.hk/about/people/faculty/michael-yu-wang) and [Prof. Qifeng Chen](https://cqf.io/).
+I was a visiting scholar at the [Robotics, Perception and Learning Lab](https://www.kth.se/rpl), KTH, working with [Prof. Danica Kragic](https://www.csc.kth.se/~danik). 
+Before those, I obtained the Bachelor degree from Zhejiang University, majoring in Automation and minoring in Finance.
 
-<span class="text-why-red">***I am actively looking for prospective Ph.D/Master students and RAs/Interns at Nanjing University. Please drop me an email if you are interested.***</span>
+My research interests include Embodied AI (VLA / WAM / RL / Tactile Intelligence / Humanoid Motion) and 3D Vision (Reconstruction / Generation / World Model). Glad to be exploring the true Physical AI in this era.
+
+<span class="text-why-red">***I am actively looking for prospective Ph.D / Master students and RAs / Interns / Visitors / Undergraduates at Nanjing University for cutting-edge research. Please drop me an email if you are interested.***</span>
 
 
 
 News
 ======
+
+**2026-04-15**  
+We release [Daimon-Infinity](https://modelscope.cn/datasets/daimonrobotics/Daimon-Infinity), the world's largest omni-modal robotics dataset for physical AI ! With high-resolution tactile sensing !  [![ModelScope](https://img.shields.io/badge/🧱-ModelScope-blue)](https://modelscope.cn/datasets/daimonrobotics/Daimon-Infinity) 
+
 **2025-06-26**  
 Two paper accepted to ICCV 2025:  
 ● LHM: Animatable Human Reconstruction from a Single Image in One Second  

@@ -23,6 +23,10 @@ My research interests include Embodied AI (VLA / WAM / RL / Tactile Intelligence
 News
 ======
 
+**2026-06-18**  
+One paper accepted to ECCV 2026:  
+● Forge4D: Feed-Forward 4D Human Reconstruction and Interpolation from Uncalibrated Sparse-View Videos
+
 **2026-04-15**  
 We release [Daimon-Infinity](https://modelscope.cn/datasets/daimonrobotics/Daimon-Infinity), the world's largest omni-modal robotics dataset for physical AI ! With high-resolution tactile sensing !  [![ModelScope](https://img.shields.io/badge/🧱-ModelScope-blue)](https://modelscope.cn/datasets/daimonrobotics/Daimon-Infinity) 
 

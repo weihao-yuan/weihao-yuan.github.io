@@ -4,7 +4,7 @@ collection: publications
 category: preprint
 permalink: /publication/preprint-2026-focusvla
 excerpt: '' 
-date: 2026-03-01
+date: 2026-12-01
 venue: 'Arxiv'
 authors: 'Yichi Zhang*, <b>Weihao Yuan</b>*‡, Yizhuo Zhang, Xidong Zhang, Jia Wan'
 # projecturl: ''

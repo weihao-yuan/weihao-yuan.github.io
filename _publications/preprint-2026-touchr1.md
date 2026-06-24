@@ -4,7 +4,7 @@ collection: publications
 category: preprint
 permalink: /publication/preprint-2026-touchr1
 excerpt: '' 
-date: 2026-05-01
+date: 2026-12-01
 venue: 'Arxiv'
 authors: 'Yingxin Lai, Yafei Zhou, Fucai Zhu, Siyu Zhu, <b>Weihao Yuan</b>†'
 # projecturl: ''

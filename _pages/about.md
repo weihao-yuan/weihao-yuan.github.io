@@ -23,6 +23,10 @@ My research interests include Embodied AI (VLA / WAM / RL / Tactile Intelligence
 News
 ======
 
+**2026-07-16**  
+One paper accepted to Transactions on Image Processing (T-IP):  
+● MulSMo: Multimodal Stylized Motion Generation by Bidirectional Control Flow
+
 **2026-06-18**  
 One paper accepted to ECCV 2026:  
 ● Forge4D: Feed-Forward 4D Human Reconstruction and Interpolation from Uncalibrated Sparse-View Videos

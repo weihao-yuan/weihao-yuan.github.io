@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Algorithm Researcher &nbsp; Alibaba Tongyi Lab
+* Large Model Researcher &nbsp; Alibaba Tongyi Lab
   
 <!-- Skills
 ======

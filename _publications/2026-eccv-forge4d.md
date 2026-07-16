@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2026-eccv-forge4d
 excerpt: '' 
-date: 2026-09-01
+date: 2026-06-01
 venue: 'ECCV'
 authors: 'Yingdong Hu, Yisheng He, Jinnan Chen, <b>Weihao Yuan</b>, Kejie Qiu, Zehong Lin, Siyu Zhu, Zilong Dong, Jun Zhang'
 projecturl: 'https://zhenliuzju.github.io/huyingdong/Forge4D/'

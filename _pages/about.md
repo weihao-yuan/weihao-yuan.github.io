@@ -15,7 +15,9 @@ I was a visiting scholar at the [Robotics, Perception and Learning Lab](https://
 Before those, I obtained the Bachelor degree from Zhejiang University, majoring in Automation and minoring in Finance.
 
 My research interests include Embodied AI (VLA / WAM / RL / Tactile Intelligence / Humanoid Motion) and 3D Vision (Reconstruction / Generation / World Model).  
-I serve as the Area Chair for CoRL, and the Associate Editor for RA-L.  
+
+I serve as the Area Chair for ICLR / CoRL, and the Associate Editor for RA-L.  
+
 Glad to be exploring the true Physical AI in this era.
 
 <span class="text-why-red">***I am actively looking for prospective Ph.D / Master students and RAs / Interns / Visitors / Undergraduates at Nanjing University for cutting-edge research. Please drop me an email if you are interested.***</span>

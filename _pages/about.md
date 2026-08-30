@@ -27,9 +27,17 @@ Glad to be exploring the true Physical AI in this era.
 News
 ======
 
+**2026-08-21**  
+One paper accepted to EMNLP 2026:  
+● TouchThinker: Scaling Tactile Commonsense Reasoning to the Open World with Large-scale Data and Action-aware Representation
+
 **2026-07-16**  
 One paper accepted to Transactions on Image Processing (T-IP):  
 ● MulSMo: Multimodal Stylized Motion Generation by Bidirectional Control Flow
+
+**2026-07-10**  
+One paper accepted to ACM Multimedia 2026, as **Oral** presentation:  
+● BARD: Bridging AutoRegressive and Diffusion Vision-Language Models Via Highly Efficient Progressive Block Merging and Stage-Wise Distillation **Oral**
 
 **2026-06-18**  
 One paper accepted to ECCV 2026:  

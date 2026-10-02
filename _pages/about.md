@@ -16,7 +16,7 @@ Before those, I obtained the Bachelor degree from Zhejiang University, majoring 
 
 My research interests include Embodied AI (VLA / WAM / RL / Tactile Intelligence / Humanoid Motion) and 3D Vision (Reconstruction / Generation / World Model).  
 
-I serve as the Area Chair for ICLR / CoRL, and the Associate Editor for RA-L.  
+I serve as the Area Chair for ICLR / CoRL, and the Associate Editor for ICRA / RA-L.  
 
 Glad to be exploring the true Physical AI in this era.
 
@@ -29,7 +29,7 @@ News
 
 **2026-09-25**  
 Two paper accepted to NeurIPS 2026:  
-● Touch-R1: Reinforcing Touch Reasoning in MLLMs
+● Touch-R1: Reinforcing Touch Reasoning in MLLMs  
 ● Glob3R: Global Structure-from-Motion with 3D Foundation Models
 
 **2026-09-05**  

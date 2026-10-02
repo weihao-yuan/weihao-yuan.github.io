@@ -27,6 +27,15 @@ Glad to be exploring the true Physical AI in this era.
 News
 ======
 
+**2026-09-25**  
+Two paper accepted to NeurIPS 2026:  
+● Touch-R1: Reinforcing Touch Reasoning in MLLMs
+● Glob3R: Global Structure-from-Motion with 3D Foundation Models
+
+**2026-09-05**  
+One paper accepted to CoRL 2026:  
+● RoboDreamer: Anticipatory Humanoid Locomotion with Predictive State-Space Models
+
 **2026-08-21**  
 One paper accepted to EMNLP 2026:  
 ● TouchThinker: Scaling Tactile Commonsense Reasoning to the Open World with Large-scale Data and Action-aware Representation

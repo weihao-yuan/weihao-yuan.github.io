@@ -1,11 +1,11 @@
 ---
 title: "PanoLAM: Large Avatar Model for Gaussian Full-Head Synthesis from One-shot Unposed Image"
 collection: publications
-category: preprint
-permalink: /publication/others-2025-panolam
+category: journals
+permalink: /publication/2026-tvcg-panolam
 excerpt: '' 
-date: 2025-09-01
-venue: 'Arxiv'
+date: 2026-10-01
+venue: 'IEEE Transactions on Visualization and Computer Graphics (TVCG)'
 authors: 'Peng Li, Yisheng He, Yingdong Hu, Yuan Dong, <b>Weihao Yuan</b>, Yuan Liu, Siyu Zhu, Gang Cheng, Zilong Dong, Yike Guo'
 projecturl: 'https://panolam.github.io/'
 paperurl: 'https://arxiv.org/abs/2509.24209'

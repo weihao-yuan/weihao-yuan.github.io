@@ -16,7 +16,7 @@ Before those, I obtained the Bachelor degree from Zhejiang University, majoring 
 
 My research interests include Embodied AI (VLA / WAM / RL / Tactile Intelligence / Humanoid Motion) and 3D Vision (Reconstruction / Generation / World Model).  
 
-I serve as the Area Chair for ICLR / CoRL, and the Associate Editor for ICRA / RA-L.  
+I serve as the Area Chair for ICLR / ICML / CoRL, and the Associate Editor for ICRA / RA-L.  
 
 Glad to be exploring the true Physical AI in this era.
 
@@ -26,6 +26,14 @@ Glad to be exploring the true Physical AI in this era.
 
 News
 ======
+
+**2026-10-30**  
+One paper accepted to TOG:  
+● LAM-Talker: Large Avatar Model for One-shot Interactive 3D Talking Avatar Running on Any Device
+
+**2026-10-05**  
+One paper accepted to TVCG:  
+● PanoLAM: Large Avatar Model for Gaussian Full-Head Synthesis from One-shot Unposed Image
 
 **2026-09-25**  
 Two paper accepted to NeurIPS 2026:  
@@ -53,7 +61,12 @@ One paper accepted to ECCV 2026:
 ● Forge4D: Feed-Forward 4D Human Reconstruction and Interpolation from Uncalibrated Sparse-View Videos
 
 **2026-04-15**  
-We release [Daimon-Infinity](https://modelscope.cn/datasets/daimonrobotics/Daimon-Infinity), the world's largest omni-modal robotics dataset for physical AI ! With high-resolution tactile sensing !  [![ModelScope](https://img.shields.io/badge/🧱-ModelScope-blue)](https://modelscope.cn/datasets/daimonrobotics/Daimon-Infinity) 
+We release [Daimon-Infinity](https://modelscope.cn/datasets/daimonrobotics/Daimon-Infinity), the world's largest omni-modal robotics dataset for physical AI ! With high-resolution tactile sensing !  
+<a href="https://daimon-robotics.github.io/tacclaw-infinity-page/"><img src="https://img.shields.io/badge/%F0%9F%8F%A0-Website-2563eb?style=flat-square" alt="Project website" height="24"></a>
+<a href="https://arxiv.org/abs/2610.20320"><img src="https://img.shields.io/badge/arXiv-2610.20320-b31b1b?style=flat-square&amp;logo=arxiv&amp;logoColor=white" alt="arXiv:2610.20320" height="24"></a>
+<a href="https://huggingface.co/datasets/daimonrobotics/Daimon-Infinity"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-eab308?style=flat-square" alt="Hugging Face dataset" height="24"></a>
+[![ModelScope](https://img.shields.io/badge/🧱-ModelScope-blue)](https://modelscope.cn/datasets/daimonrobotics/Daimon-Infinity)
+
 
 **2025-06-26**  
 Two paper accepted to ICCV 2025:  
